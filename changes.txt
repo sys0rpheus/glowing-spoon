@@ -1,1 +1,1 @@
-this is a file to test the rebase head~n, squash and edit commands
+this is to add one more commit to squash-able ithis is a file to test the rebase head~n, squash and edit commands
