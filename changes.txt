@@ -1,0 +1,1 @@
+this is a file to test the rebase head~n, squash and edit commands
